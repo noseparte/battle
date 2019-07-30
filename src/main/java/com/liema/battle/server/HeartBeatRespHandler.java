@@ -25,11 +25,6 @@ import org.apache.commons.logging.LogFactory;
 
 import java.util.Date;
 
-/**
- * @author Lilinfeng
- * @version 1.0
- * @date 2014年3月15日
- */
 public class HeartBeatRespHandler extends ChannelInboundHandlerAdapter {
 
     private static final Log LOG = LogFactory.getLog(HeartBeatRespHandler.class);

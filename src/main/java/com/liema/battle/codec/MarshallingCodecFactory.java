@@ -27,11 +27,6 @@ import org.jboss.marshalling.Marshalling;
 import org.jboss.marshalling.MarshallingConfiguration;
 import org.jboss.marshalling.Unmarshaller;
 
-/**
- * @author Administrator
- * @version 1.0
- * @date 2014年3月15日
- */
 public final class MarshallingCodecFactory {
 
     /**

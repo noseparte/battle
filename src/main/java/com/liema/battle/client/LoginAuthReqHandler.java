@@ -25,11 +25,6 @@ import io.netty.channel.ChannelPipeline;
 import org.apache.commons.logging.Log;
 import org.apache.commons.logging.LogFactory;
 
-/**
- * @author Lilinfeng
- * @version 1.0
- * @date 2014年3月15日
- */
 public class LoginAuthReqHandler extends ChannelInboundHandlerAdapter {
 
     private static final Log LOG = LogFactory.getLog(LoginAuthReqHandler.class);

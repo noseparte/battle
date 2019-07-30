@@ -32,11 +32,6 @@ import java.net.InetSocketAddress;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-/**
- * @author Lilinfeng
- * @version 1.0
- * @date 2014年3月15日
- */
 public class LoginAuthRespHandler extends ChannelInboundHandlerAdapter {
 
     private final static Log LOG = LogFactory.getLog(LoginAuthRespHandler.class);

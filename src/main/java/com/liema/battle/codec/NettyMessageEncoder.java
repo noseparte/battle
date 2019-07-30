@@ -24,11 +24,8 @@ import io.netty.handler.codec.MessageToByteEncoder;
 import java.io.IOException;
 import java.util.Map;
 
-/**
- * @author Lilinfeng
- * @date 2014年3月14日
- * @version 1.0
- */
+
+
 public final class NettyMessageEncoder extends
 	MessageToByteEncoder<NettyMessage> {
 

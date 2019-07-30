@@ -23,11 +23,6 @@ import java.io.StreamCorruptedException;
 import org.jboss.marshalling.ByteInput;
 import org.jboss.marshalling.Unmarshaller;
 
-/**
- * @author Lilinfeng
- * @version 1.0
- * @date 2014年3月14日
- */
 public class MarshallingDecoder {
 
     private final Unmarshaller unmarshaller;

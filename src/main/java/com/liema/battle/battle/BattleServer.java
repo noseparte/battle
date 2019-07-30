@@ -13,6 +13,11 @@ import io.netty.handler.codec.http.HttpObjectAggregator;
 import io.netty.handler.codec.http.HttpServerCodec;
 import io.netty.handler.stream.ChunkedWriteHandler;
 
+/**
+ * @author  noseparte
+ * @date  2019/7/26 15:09
+ * @Description
+ */
 public class BattleServer {
 
     public void run(int port) {

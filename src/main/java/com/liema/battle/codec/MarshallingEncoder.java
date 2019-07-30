@@ -22,11 +22,8 @@ import java.io.IOException;
 
 import org.jboss.marshalling.Marshaller;
 
-/**
- * @author Lilinfeng
- * @date 2014年3月14日
- * @version 1.0
- */
+
+
 @Sharable
 public class MarshallingEncoder {
 
