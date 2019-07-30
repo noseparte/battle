@@ -40,6 +40,7 @@
     副本(instance)
     任务(mission)
     活动(activity)
+    职业(occupation)
 ~~~
 
 ```test
